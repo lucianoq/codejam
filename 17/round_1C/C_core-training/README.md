@@ -21,8 +21,11 @@ For each test case, output one line containing `Case #x: y`, where `x` is the te
 ### Limits
 
 1 ≤ **T** ≤ 100.
+
 1 ≤ **N** ≤ 50.
+
 For all i, 0.0000 ≤ **P<sub>i</sub>** ≤ 1.0000.
+
 0.0000 ≤ **U** ≤ **N** - the sum of all **P<sub>i</sub>**. (There will not be more training units than can be used.)
 
 #### Small dataset 1

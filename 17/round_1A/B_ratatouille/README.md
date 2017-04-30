@@ -27,18 +27,23 @@ For each test case, output one line containing `Case #x: y`, where `x` is the te
 ### Limits
 
 1 ≤ **T** ≤ 100.
+
 1 ≤ **R<sub>i</sub>** ≤ 10<sup>6</sup>, for all i.
+
 1 ≤ **Q<sub>ij</sub>** ≤ 10<sup>6</sup>, for all i and j.
 
 #### Small dataset
 
 1 ≤ **N** ≤ 2.
+
 1 ≤ **P** ≤ 8.
 
 #### Large dataset
 
 1 ≤ **N** ≤ 50.
+
 1 ≤ **P** ≤ 50.
+
 **N** × **P** ≤ 1000.
 
 ### Sample

@@ -21,8 +21,11 @@ For each test case, output one line containing `Case #x: y`, where `x` is the te
 ### Limits
 
 1 ≤ **T** ≤ 100.
+
 0 < **K<sub>i</sub>** < **D** ≤ 10<sup>9</sup>, for all i.
+
 **K<sub>i</sub>** ≠ **K<sub>j</sub>**, for all i ≠ j. (No two horses start in the same position.)
+
 1 ≤ **S<sub>i</sub>** ≤ 10000.
 
 #### Small dataset

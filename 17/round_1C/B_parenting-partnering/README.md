@@ -29,22 +29,31 @@ For each test case, output one line containing `Case #x: y`, where `x` is the te
 ### Limits
 
 1 ≤ **T** ≤ 100.
+
 0 ≤ **C<sub>i</sub>** < **D<sub>i</sub>** ≤ 24 × 60, for all i.
+
 0 ≤ **J<sub>i</sub>** < **K<sub>i</sub>** ≤ 24 × 60, for all i.
+
 Any two of the intervals of {[**C<sub>i</sub>**, **D<sub>i</sub>**) for all i} union {[**J<sub>i</sub>**, **K<sub>i</sub>**) for all i} have an empty intersection. (The intervals are closed on the left and open on the right, which ensures that two exactly consecutive intervals have nothing in between but do not overlap.)
+
 sum of {**D<sub>i</sub>** - **C<sub>i</sub>** for all i} ≤ 720.
+
 sum of {**K<sub>i</sub>** - **J<sub>i</sub>** for all i} ≤ 720.
 
 #### Small dataset
 
 0 ≤ **A<sub>C</sub>** ≤ 2.
+
 0 ≤ **A<sub>J</sub>** ≤ 2.
+
 1 ≤ **A<sub>C</sub>** + **A<sub>J</sub>** ≤ 2.
 
 #### Large dataset
 
 0 ≤ **A<sub>C</sub>** ≤ 100.
+
 0 ≤ **A<sub>J</sub>** ≤ 100.
+
 1 ≤ **A<sub>C</sub>** + **A<sub>J</sub>** ≤ 200.
 
 ### Sample

@@ -30,27 +30,41 @@ Each y<sub>k</sub> will be considered correct if it is within an absolute or rel
 ### Limits
 
 1 ≤ **T** ≤ 100.
+
 2 ≤ **N** ≤ 100.
+
 1 ≤ **E**<sub>i</sub> ≤ 10<sup>9</sup>, for all i.
+
 1 ≤ **S**<sub>i</sub> ≤ 1000, for all i.
+
 -1 ≤ **D**<sub>ij</sub> ≤ 10<sup>9</sup>, for all i, j.
+
 **D**<sub>ii</sub> = -1, for all i. (There are no direct routes from a city to itself.)
+
 **D**<sub>ij</sub> ≠ 0, for all i, j.
+
 **U**<sub>k</sub> ≠ **V**<sub>k</sub>, for all k.
+
 It is guaranteed that the delivery from **U**<sub>k</sub> to **V**<sub>k</sub> can be accomplished with the given horses, for all k.
+
 **U**<sub>l</sub> ≠ **U**<sub>m</sub> and/or **V**<sub>l</sub> ≠ **V**<sub>m</sub>, for all different l, m. (No ordered pair of cities to investigate is repeated within a test case.)
 
 #### Small dataset
 
 **D**<sub>ij</sub> = -1, for all i, j where i + 1 ≠ j. (The cities are in a single line; each route goes from one city to the next city in line.)
+
 **Q** = 1.
+
 **U**<sub>1</sub> = 1.
+
 **V**<sub>1</sub> = **N**. (The only delivery to calculate is between the first and last cities in the line).
 
 #### Large dataset
 
 1 ≤ **Q** ≤ 100.
+
 1 ≤ **U**<sub>k</sub> ≤ **N**, for all k.
+
 1 ≤ **V**<sub>k</sub> ≤ **N**, for all k.
 
 ### Sample

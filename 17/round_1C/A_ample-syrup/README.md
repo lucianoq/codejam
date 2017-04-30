@@ -20,9 +20,12 @@ For each test case, output one line containing `Case #x: y`, where `x` is the te
 
 ### Limits
 
-1 ≤ **T** ≤ 100.  
-1 ≤ **K** ≤ **N**.  
-1 ≤ **R<sub>i</sub>** ≤ 10<sup>6</sup>, for all i.  
+1 ≤ **T** ≤ 100.
+
+1 ≤ **K** ≤ **N**.
+  
+1 ≤ **R<sub>i</sub>** ≤ 10<sup>6</sup>, for all i.
+  
 1 ≤ **H<sub>i</sub>** ≤ 10<sup>6</sup>, for all i.  
 
 #### Small dataset

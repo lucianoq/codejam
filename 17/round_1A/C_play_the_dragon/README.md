@@ -30,19 +30,29 @@ For each test case, output one line containing `Case #x: y`, where `x` is the te
 #### Small dataset
 
 1 ≤ **H<sub>d</sub>** ≤ 100.
+
 1 ≤ **A<sub>d</sub>** ≤ 100.
+
 1 ≤ **H<sub>k</sub>** ≤ 100.
+
 1 ≤ **A<sub>k</sub>** ≤ 100.
+
 0 ≤ **B** ≤ 100.
+
 0 ≤ **D** ≤ 100.
 
 #### Large dataset
 
 1 ≤ **H<sub>d</sub>** ≤ 10<sup>9</sup>.
+
 1 ≤ **A<sub>d</sub>** ≤ 10<sup>9</sup>.
+
 1 ≤ **H<sub>k</sub>** ≤ 10<sup>9</sup>.
+
 1 ≤ **A<sub>k</sub>** ≤ 10<sup>9</sup>.
+
 0 ≤ **B** ≤ 10<sup>9</sup>.
+
 0 ≤ **D** ≤ 10<sup>9</sup>.
 
 ### Sample

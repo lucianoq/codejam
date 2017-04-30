@@ -26,8 +26,11 @@ If multiple arrangements are possible, you may print any of them.
 ### Limits
 
 1 ≤ **T** ≤ 100.
+
 3 ≤ **N** ≤ 1000.
+
 **R** + **O** + **Y** + **G** + **B** + **V** = **N**.
+
 0 ≤ Z for each Z in {**R**, **O**, **Y**, **G**, **B**, **V**}.
 
 #### Small dataset
@@ -41,9 +44,6 @@ No restrictions beyond the general limits. (Each unicorn may have either one or 
 ### Sample
 
 ```
-A. Steed 2: Cruise Control
-B. Stable Neigh-bors
-C. Pony Express
 Input
 4
 6 2 0 2 0 2 0

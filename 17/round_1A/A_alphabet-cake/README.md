@@ -17,19 +17,25 @@ If there are multiple possible answers, you may output any of them.
 ### Limits
 
 1 ≤ **T** ≤ 100.
+
 There is at least one letter in the input grid.
+
 No letter appears in more than one cell in the input grid.
+
 It is guaranteed that at least one answer exists for each test case.
 
 #### Small dataset
 
 1 ≤ **R** ≤ 12.
+
 1 ≤ **C** ≤ 12.
+
 **R** × **C** ≤ 12.
 
 #### Large dataset
 
 1 ≤ **R** ≤ 25.
+
 1 ≤ **C** ≤ 25.
 
 ### Sample

@@ -46,10 +46,15 @@ If there are multiple valid answers, you may output any one of them.
 ### Limits
 
 1 ≤ **T** ≤ 100.
+
 1 ≤ **N** ≤ 100.
+
 1 ≤ **C<sub>i</sub>** ≤ **N**, for all i.
+
 0 ≤ **M** ≤ **N**<sup>2</sup>.
+
 No two pre-placed models appear in the same cell.
+
 It is guaranteed that the set of pre-placed models follows the rules.
 
 #### Small dataset
