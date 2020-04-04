@@ -1,0 +1,23 @@
+1--
+2     ---
+3      -- 
+4  ----
+5 ----
+
+Algoritmo semplice = IMPOSSIBILE sul 5
+C=1-2
+J=3-4
+
+Algoritmo smart = POSSIBILE
+C=1-4-3
+J=2-5
+
+
+1--
+5 ----
+4  ----
+2     ---
+3      -- 
+
+CJCCJ
+
